@@ -1,2 +1,2 @@
 # frcodes
-a public place to share my codes
+a public place to share my code
